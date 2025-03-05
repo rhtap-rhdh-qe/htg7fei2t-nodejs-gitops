@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: htg7fei2t-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/htg7fei2t-nodejs
